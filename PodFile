@@ -1,0 +1,2 @@
+pod 'SimpleAuth/Facebook'
+pod 'SimpleAuth/Twitter'
